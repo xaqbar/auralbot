@@ -1,0 +1,19 @@
+{
+  "name": "AuralBot",
+  "version": "1",
+  "description": "A robot that makes sounds",
+  "main": "auralbot.js",
+  "author": "Zack Cassutt",
+  "license": "MIT"
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.0",
+    "winston": "^2.4.0",
+    "ytdl-core": "^0.20.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaqbar/auralbot.git"
+  },
+  "Read Me": "https://github.com/xaqbar/auralbot/blob/master/README.md"
+}
