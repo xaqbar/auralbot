@@ -1,6 +1,6 @@
 {
   "name": "AuralBot",
-  "version": "1",
+  "version": "1.0.0",
   "description": "A robot that makes sounds",
   "main": "auralbot.js",
   "author": "Zack Cassutt",
@@ -8,6 +8,7 @@
   "dependencies": {
     "discord.io": "github:woor/discord.io#gateway_v6",
     "discord.js": "^11.3.0",
+    "request": "^2.83.0",
     "winston": "^2.4.0",
     "ytdl-core": "^0.20.1"
   },
