@@ -14,3 +14,12 @@ Repository for Discord bot "auralbot"
 Description:
   This is a bot written to capture YouTube videos based on URL or video ID and store them in a playlist to play through a Discord server voice channel. Most of the code in this project is heavily inspired by agubelu and his discord_music_bot (https://github.com/agubelu/discord-music-bot).
 
+  I suggest creating a file on your local machine "auth.json". Set it up with the following text and save in your bot's folder:
+  
+  {
+    "token": <Your token here>,
+    "YoutubeKey": "Your youtube key here"
+  }
+  
+  
+  
